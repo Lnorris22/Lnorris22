@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Lnorris22
 - 🌱 I’m currently learning the ins and outs of c++ and python 
-- 💞️ I’m looking to collaborate on serious projects
+- 💞️ I’m looking to collaborate on serious but laid back projects
 - 📫 How to reach me: email preferably @laynenorris36@gmail.com / lnorris2022@mexicoschools.net
 
 <!---
